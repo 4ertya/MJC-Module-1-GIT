@@ -1,9 +1,18 @@
+<<<<<<< Updated upstream
 Line 1 point 18
 Line 2 point 18
 Line 3 updated
 Line 4 updated
 Line 5
 Line 6
+=======
+Line 1 updated
+Line 2 updated
+Line 3 point 19
+Line 4 point 19
+Line 5 point 20
+Line 6 point 20
+>>>>>>> Stashed changes
 Line 7
 Line 8
 Line 9
