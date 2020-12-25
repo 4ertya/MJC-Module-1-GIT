@@ -1,5 +1,5 @@
-Line 1 updated
-Line 2 updated
+Line 1 point 18
+Line 2 point 18
 Line 3 updated
 Line 4 updated
 Line 5
